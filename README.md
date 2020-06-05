@@ -1,1 +1,1 @@
-# 30-Day-LeetCoding-Challenge_June
+Q&A of 30 days June leetcode challange.
